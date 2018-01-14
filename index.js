@@ -46,6 +46,9 @@ chooseDegree.question('Do you prefer Celcius or Fahrenheit degree? Type C or F o
   showWeather(degree);
 });
 
+/**
+* @param {String} degree температурная шкала
+**/
 function showWeather (degree) {
   const chooseCity = readline.createInterface({
     input: process.stdin,
