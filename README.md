@@ -10,9 +10,9 @@ Type `node index.js`.
 Type in city and country where you live or any other cities that you just like.
 Admitted type formats:
 + first letter for degree scale and city is allowed both in lower in upper cases
-- for example, both `paris` and `Paris` give the same result
+  - for example, both `paris` and `Paris` give the same result
 + country or region are optional, but it could maintain more accuracy 
 + city and country should be divided by comma and space, otherwise your inputed text will be considered as one word
-- for example, `paris, france` is not the same as `paris france` or `paris,france`
+  - for example, `paris, france` is not the same as `paris france` or `paris,france`
 
 We use [weather-js](https://www.npmjs.com/package/weather-js), you can read more about them if you like.
