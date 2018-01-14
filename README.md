@@ -1,4 +1,4 @@
-#Have a nice day!
+# Have a nice day!
 
 There is a console application that gives you current weather, forecast for tomorrow and a funny random joke. Celcius or Fahrenheit degrees are optional, Celsius is default.
 
